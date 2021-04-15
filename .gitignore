@@ -4,6 +4,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#vscode
+.idea/
+.idea
+
 # C extensions
 *.so
 
@@ -85,6 +89,7 @@ ipython_config.py
 env/
 venv/
 .env
+
 
 
 # pipenv
